@@ -2,7 +2,7 @@
 
 I'm a **professional designer** and **developer**. Let's create something extraordinary together! Contact me for collaboration opportunities.
 
-## <div style="display: flex;"><img src="https://maksiu.ovh/_next/static/media/programming.82576568.svg" alt="Design" width="25" height="auto" />Development Skills Development Skills </div>
+## <div style="display: flex;"><img src="https://maksiu.ovh/_next/static/media/programming.82576568.svg" alt="Design" width="25" height="auto" /> Development Skills </div>
 
 
 - **Discord.js Bot Development**: Senior developer with experience in building solutions for large-scale servers.
@@ -23,8 +23,9 @@ I'm a **professional designer** and **developer**. Let's create something extrao
 
 I'm always excited to take on new challenges and collaborate on innovative projects. Feel free to reach out, and let's make something amazing together!
 
+<hr>
 
-<p style="text-align: center">
+<div style="text-align: center; width: 100%">
 <a href="https://github.com/maks1u" style="text-decoration: none">
   <img 
     src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" 
@@ -46,4 +47,4 @@ I'm always excited to take on new challenges and collaborate on innovative proje
     style="border-radius: 5px;"
   />
 </a>
-</p>
+</div>
