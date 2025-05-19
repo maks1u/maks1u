@@ -2,7 +2,7 @@
 
 I'm a **professional designer** and **developer**. Let's create something extraordinary together! Contact me for collaboration opportunities.
 
-## <div style="display: flex;"><img src="https://maksiu.ovh/_next/static/media/programming.82576568.svg" alt="Design" width="25" height="auto" /> Development Skills </div>
+## <div style="display: flex;"><img src="https://maksiu.ovh/_next/static/media/programming.82576568.svg" alt="Development_Icon" width="25" height="auto" /> Development Skills </div>
 
 
 - **Discord.js Bot Development**: Senior developer with experience in building solutions for large-scale servers.
@@ -11,7 +11,7 @@ I'm a **professional designer** and **developer**. Let's create something extrao
 - **SQL Databases**: Proficient in MariaDB, MySQL, and PostgreSQL.
 - **Interactive Web Interfaces**: Developing engaging and user-friendly web applications.
 
-## <div style="display: flex;"><img src="https://maksiu.ovh/_next/static/media/design.95396786.svg" alt="Design" width="25" height="auto" /> Design Expertise </div>
+## <div style="display: flex;"><img src="https://maksiu.ovh/_next/static/media/design.95396786.svg" alt="Design_Icon" width="25" height="auto" /> Design Expertise </div>
 
 - **Motion Graphics**: Crafting dynamic visuals that captivate audiences.
 - **3D Environments**: Building immersive 3D designs for various applications.
@@ -19,7 +19,7 @@ I'm a **professional designer** and **developer**. Let's create something extrao
 
 *Over 50 projects completed using industry-standard tools like After Effects, Photoshop, Illustrator, Figma, and Blender.*
 
-### <img src="https://maksiu.ovh/_next/static/media/cloud.5b4ebfa5.svg" alt="Design" width="25" height="auto" /> Let's Collaborate!
+### <img src="https://maksiu.ovh/_next/static/media/cloud.5b4ebfa5.svg" alt="Collaboration_Icon" width="25" height="auto" /> Let's Collaborate!
 
 I'm always excited to take on new challenges and collaborate on innovative projects. Feel free to reach out, and let's make something amazing together!
 
